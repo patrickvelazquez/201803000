@@ -106,7 +106,7 @@ public class BombaDeGasolina {
     public float venta(int litros)
     {
         float precio=0.0F;
-        if(litros<verificarInventario())
+        if(litros<=verificarInventario())
         {
             contadorLV=contadorLV+litros;
             precio=litros*tGasolina.calcularPrecio();
