@@ -1,0 +1,5 @@
+El tipo de boleto es 1:Sencillo 2 Doble
+
+Para calcular el precio del boleto, si el boleto tipo 1 sencillo es igual a 950 y si es tipo 2 es el precio mas el 80%
+todo boleto paga un impuesto del 16%
+el boleto tiene una promocion de que si tiene mas de 60 años se le da un 50% de descuento sobre el precio del boleto
